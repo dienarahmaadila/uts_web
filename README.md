@@ -8,5 +8,5 @@ Addtion Count, with Hall of Fame (Leaderboard key).
 
 ## Deploy testing
 
-1. Play it (<https://diena.000webhostapp.com/>)
+1. Play it (<http://diena.000webhostapp.com/>)
 2. Enjoy
