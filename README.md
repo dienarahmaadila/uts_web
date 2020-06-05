@@ -1,9 +1,7 @@
 # UTS WEB
 >count addition.
 
-[![PHP Version][php-image]][php-url]
-
-One to two paragraph statement about your product and what it does.
+Addtion Count, with Hall of Fame (Leaderboard key).
 
 ![](header.png)
 
